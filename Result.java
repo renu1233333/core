@@ -1,0 +1,15 @@
+class Result
+{
+  public static void main(String[] Val)
+  {
+   int test=10;
+   if(test==10)
+   {
+     System.out.println("pass");
+   }
+   else
+   {
+    System.out.println("fail");
+   }
+  }
+}

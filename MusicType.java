@@ -1,0 +1,4 @@
+enum MusicType
+{
+MELODY,HORROR,CLASSICAL,WESTERN,POP;
+}

@@ -1,0 +1,24 @@
+class HospitalArray{
+public static void main(String[] hospital)
+{
+String h1="Jayanagar General Hospital";
+String h2="Venlock Hospital";
+String h3="Chaitanya Hospital";
+String h4="Chord Road Hospital";
+String h5="Gayathri Hospital Pvt Ltd ";
+String h6="Koshys Hospital";
+String h7="Manipal Hospital";
+String h8="Narayana Nethralaya";
+String h9="P D Hinduja Sindhi Hospital";
+String h10="Sagar Hospitals";
+String h11="Sarojini Hospital";
+String h12="Shaker Nursing Home";
+String h13="St Marthas Hospital";
+String h14=" Sunetra Eye Hospital ";
+String h15="Nayak Hospital ";
+String h16="Udhbhava Hospital";
+String h17=" Shushrusha Hospital";
+String h18="Chaya Hospital ";
+String h19="T R Hospital ";
+String h20="Prashantha Hospital ";
+}}

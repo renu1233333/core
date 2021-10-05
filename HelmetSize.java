@@ -1,0 +1,4 @@
+enum HelmetSize
+{
+SMALL,MEDIUM,LARGE,EXTRALARGE;
+}
