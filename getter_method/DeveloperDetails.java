@@ -19,7 +19,7 @@ void setNumberOfExperience(int numberOfExperience)
 }
 void setSalary(float salary)
 {
-	this.salary;
+	this.salary=salary;
 }
 String getName()
 {
