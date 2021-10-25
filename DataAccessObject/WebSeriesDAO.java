@@ -29,6 +29,26 @@ public class WebSeriesDAO {
 		}
 	}
 	
+	
+	public void update(WebSeriesDTO updateRef,int index)
+	{
+		if(updateRef!=null)
+		{
+			if(index>=0 && index<webSeriesDTOs.length)
+			{
+				this.webSeriesDTOs[index]=updateRef;
+			}
+			else
+			{
+				System.out.println("passed reference is not valid");
+			}
+		}
+		else
+		{
+			System.out.println("reference You are passing is null");
+		}
+	}
+	
 	public void display()
 	{
 		for(int coke=0;coke<webSeriesDTOs.length;coke++)
