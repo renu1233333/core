@@ -7,11 +7,22 @@ public class Factory extends Object{
 	public int noOfWorkers=500;
 	private int since=1947;
 	
+	public int age=29;
+	
 	public void hiding()
 	{
 		System.out.println("hided");
 	}
+	
+	
+	public void sum()
+	{
+		System.out.println("invoking parent class");
+		System.out.println("==============================");
+		
+	}
 	public Factory() {
+	
 		System.out.println("Invoking no argument Factory constructor");
 		
 	}
