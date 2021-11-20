@@ -14,7 +14,7 @@ if(row>=col)
 System.out.print("*");
 }
 }
-System.out.println("\n");
+System.out.println();
 }
 
 
